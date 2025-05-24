@@ -30,9 +30,13 @@ Antes de empezar, asegúrate de tener:
 Abre una terminal o consola y ejecuta:
 
 ```bash
-git clone 
+git clone https://github.com/monte7292/DiscordBot-Analisis
 cd discord-analisis
 npm install
+Crea un fichero .evn con el token de tu bot y la url de tu base de datos.
+# Por ultimo ejecuta el bot
+node index.js
+
 ```
 
 ### 2. Como ejecutar el bot
