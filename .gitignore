@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de producción o build
+dist/
+build/
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Editor y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+
+# Dependencias empaquetadas
+package-lock.json
+yarn.lock
+
+# Cachés
+.cache/
+tmp/
+temp/
+
+# Coverage reports
+coverage/
+
+# Archivos de npm
+*.tgz
+
+# MacOS system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
