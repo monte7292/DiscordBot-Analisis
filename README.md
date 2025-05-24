@@ -38,5 +38,3 @@ Crea un fichero .evn con el token de tu bot y la url de tu base de datos.
 node index.js
 
 ```
-
-### 2. Como ejecutar el bot
